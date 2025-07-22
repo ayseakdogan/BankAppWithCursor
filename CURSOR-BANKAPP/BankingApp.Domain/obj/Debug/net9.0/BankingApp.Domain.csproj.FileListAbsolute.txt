@@ -1,0 +1,15 @@
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\bin\Debug\net9.0\BankingApp.Domain.deps.json
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\bin\Debug\net9.0\BankingApp.Domain.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\bin\Debug\net9.0\BankingApp.Domain.pdb
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\bin\Debug\net9.0\BankingApp.Core.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\bin\Debug\net9.0\BankingApp.Core.pdb
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.AssemblyInfo.cs
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingA.50A19FB1.Up2Date
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\refint\BankingApp.Domain.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\BankingApp.Domain.pdb
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Domain\obj\Debug\net9.0\ref\BankingApp.Domain.dll

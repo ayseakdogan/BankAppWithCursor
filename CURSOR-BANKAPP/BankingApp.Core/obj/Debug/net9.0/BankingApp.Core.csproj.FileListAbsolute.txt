@@ -1,0 +1,12 @@
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\bin\Debug\net9.0\BankingApp.Core.deps.json
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\bin\Debug\net9.0\BankingApp.Core.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\bin\Debug\net9.0\BankingApp.Core.pdb
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.csproj.AssemblyReference.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.AssemblyInfoInputs.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.AssemblyInfo.cs
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\refint\BankingApp.Core.dll
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\BankingApp.Core.pdb
+C:\Users\nuhde\OneDrive\Masaüstü\CURSOR-BANKAPP\BankingApp.Core\obj\Debug\net9.0\ref\BankingApp.Core.dll

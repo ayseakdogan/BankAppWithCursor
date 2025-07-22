@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|c:\\users\\nuhde\\onedrive\\masa\u00FCst\u00FC\\cursor-bankapp\\bankingapp.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|solutionrelative:bankingapp.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598557C5-8051-434A-9840-6D28691E68F1}|BankingApp.WebApi\\BankingApp.WebApi.csproj|c:\\users\\nuhde\\onedrive\\masa\u00FCst\u00FC\\cursor-bankapp\\bankingapp.webapi\\controllers\\individualcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598557C5-8051-434A-9840-6D28691E68F1}|BankingApp.WebApi\\BankingApp.WebApi.csproj|solutionrelative:bankingapp.webapi\\controllers\\individualcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|c:\\users\\nuhde\\onedrive\\masa\u00FCst\u00FC\\cursor-bankapp\\bankingapp.application\\features\\individualcustomers\\queries\\getlistindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|solutionrelative:bankingapp.application\\features\\individualcustomers\\queries\\getlistindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|c:\\users\\nuhde\\onedrive\\masa\u00FCst\u00FC\\cursor-bankapp\\bankingapp.application\\features\\individualcustomers\\queries\\getbyidindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|solutionrelative:bankingapp.application\\features\\individualcustomers\\queries\\getbyidindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|c:\\users\\nuhde\\onedrive\\masa\u00FCst\u00FC\\cursor-bankapp\\bankingapp.application\\features\\individualcustomers\\profiles\\individualcustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EABC92-7122-493A-879B-D750B3AFAC44}|BankingApp.Application\\BankingApp.Application.csproj|solutionrelative:bankingapp.application\\features\\individualcustomers\\profiles\\individualcustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndividualCustomerBusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "RelativeDocumentMoniker": "BankingApp.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "ToolTip": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "RelativeToolTip": "BankingApp.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:27:55.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetByIdIndividualCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetByIdIndividualCustomerQuery.cs",
+              "RelativeDocumentMoniker": "BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetByIdIndividualCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetByIdIndividualCustomerQuery.cs",
+              "RelativeToolTip": "BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetByIdIndividualCustomerQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:25:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndividualCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "RelativeDocumentMoniker": "BankingApp.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "ToolTip": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "RelativeToolTip": "BankingApp.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:22:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetListIndividualCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetListIndividualCustomerQuery.cs",
+              "RelativeDocumentMoniker": "BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetListIndividualCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetListIndividualCustomerQuery.cs",
+              "RelativeToolTip": "BankingApp.Application\\Features\\IndividualCustomers\\Queries\\GetListIndividualCustomerQuery.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:30:04.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndividualCustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerProfile.cs",
+              "RelativeDocumentMoniker": "BankingApp.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerProfile.cs",
+              "ToolTip": "C:\\Users\\nuhde\\OneDrive\\Masa\u00FCst\u00FC\\CURSOR-BANKAPP\\BankingApp.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerProfile.cs",
+              "RelativeToolTip": "BankingApp.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:20:02.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

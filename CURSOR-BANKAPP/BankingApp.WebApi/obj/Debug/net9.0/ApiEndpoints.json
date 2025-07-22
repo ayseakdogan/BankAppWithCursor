@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "BankingApp.WebApi.Controllers.IndividualCustomersController",
+    "Method": "Create",
+    "RelativePath": "api/IndividualCustomers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "BankingApp.Application.Features.IndividualCustomers.Commands.Dtos.CreateIndividualCustomerRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankingApp.Application.Features.IndividualCustomers.Commands.Dtos.CreateIndividualCustomerResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankingApp.WebApi.Controllers.IndividualCustomersController",
+    "Method": "GetList",
+    "RelativePath": "api/IndividualCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApp.WebApi.Controllers.IndividualCustomersController",
+    "Method": "GetById",
+    "RelativePath": "api/IndividualCustomers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
